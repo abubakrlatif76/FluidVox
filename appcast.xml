@@ -11,7 +11,7 @@
             <sparkle:version>48</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/abubakrlatif76/FluidVox/releases/download/v1.0.2/fluidvox.dmg" length="13234560" type="application/octet-stream" sparkle:edSignature="QEx0BzgrPKdXG2wdYLqcj9Gv6LcayibufqMPFk3phOIk/E1upEYviqq4ETg/tjbdokvynTrb/s1vMVIKY037Cg=="/>
+            <enclosure url="https://github.com/abubakrlatif76/FluidVox/releases/download/v1.0.2/fluidvox.dmg" length="14180735" type="application/octet-stream" sparkle:edSignature="QMk6nA4QdwPrQoDL8y3r65Wt8zOWPiPoRv/2AfMghDLadCUmj4aYYFEqePP3GzzmK17mrDCLDvTiGVHBCHphBQ=="/>
         </item>
         <item>
             <title>1.0.1</title>
