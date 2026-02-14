@@ -6,6 +6,14 @@
         <language>en</language>
         <!-- Items are added automatically by generate_appcast during releases -->
         <item>
+            <title>1.2.2</title>
+            <pubDate>Wed, 11 Feb 2026 19:44:58 -0500</pubDate>
+            <sparkle:version>99</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/abubakrlatif76/FluidVox/releases/download/v1.2.2/fluidvox.dmg" length="14780535" type="application/octet-stream" sparkle:edSignature="qd+URCszmQu8Vj3qvB/ApDVcq5+Tmfz0cL7VuVidxcWRFERaHFRH+KSWeri/bOhi8USywV9VvzuTS7nBVXwHDQ=="/>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Wed, 11 Feb 2026 19:44:58 -0500</pubDate>
             <sparkle:version>97</sparkle:version>
@@ -20,14 +28,6 @@
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/abubakrlatif76/FluidVox/releases/download/v1.2.0/fluidvox.dmg" length="14772055" type="application/octet-stream" sparkle:edSignature="ECXJM/90n2qX7DL7BJAC0lgnyBipmLDJPyyMRCmHjpDLHC4BSWSKW9Hpk11KKaFVF/hkkh0pAhgEQHRZVr7cAA=="/>
-        </item>
-        <item>
-            <title>1.1.8</title>
-            <pubDate>Wed, 11 Feb 2026 19:44:58 -0500</pubDate>
-            <sparkle:version>85</sparkle:version>
-            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/abubakrlatif76/FluidVox/releases/download/v1.1.8/fluidvox.dmg" length="14748655" type="application/octet-stream" sparkle:edSignature="HthBRcYcqaQKdWt0Hhqjn6Djui0t7JukjMJnwU2aHOryXYUzo940CSgU6LGj8hO6mdZS/XSZW5P0skv4n0PhCQ=="/>
         </item>
     </channel>
 </rss>
